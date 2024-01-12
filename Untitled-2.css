@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header-title{
+	background-color: #ccc;
+	font-size: 18px;
+}
+.main{
+	background-color: #ccc;
+}
+.main-img{
+	max-width: 480px;
+	width: 100%;
+	aspect-ratio:16 / 9;
+}
+.main ul li{
+	margin: 0 auto;
+}
